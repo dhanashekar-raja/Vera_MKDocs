@@ -1,0 +1,4 @@
+!!! info "**IMPORTANT:** Vera has been commercially rebranded to Fortra's Digital Guardian Secure Collaboration (Vera), including its help pages. As of September 2023, all Secure Collaboration information and messaging have been migrated to the [Digital Guardian website](https://www.fortra.com/platform/secure-collaboration)."
+
+# Introduction
+Secure Collaboration (Vera) publishes its help documents with every patch and major release. The release includes **Knowledge Base Articles (KBAs), Release Notes, Frequently Asked Questions (FAQs)**, and **Technical Guides** published as admin and user guides. The documents are issued with the release number or version, with 3.24.1 being the latest version. The following image displays the homepage of Secure Collaboration (Vera) Admin Help.
