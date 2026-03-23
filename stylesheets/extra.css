@@ -1,0 +1,26 @@
+/* styles.css */
+:root {
+    --md-primary-fg-color: #006A56;
+    --md-accent-fg-color: #006A56;
+}
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Footer background */
+.md-footer-meta {
+  background-color: #006A56; /* your corporate color */
+  color: white;
+}
+
+/* Footer text */
+.md-footer-meta a {
+  color: #006A56; /* optional accent */
+}
+
+.md-copyright {
+  color: slategray;
+}
+/* end */
