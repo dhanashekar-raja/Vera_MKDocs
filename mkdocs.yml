@@ -35,6 +35,4 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-copyright: '2026 Fortra, LLC. All rights reserved.'    
-
-    
+copyright: '2026 Fortra, LLC. All rights reserved.'        
