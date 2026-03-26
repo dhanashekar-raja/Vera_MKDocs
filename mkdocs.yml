@@ -23,6 +23,7 @@ theme:
    
 nav:
   - Home: index.md
+  - Welcome: Welcome.md
   - Release Notes:
       - 2026:
           - Version 3.25.0: release-notes/2026/3.25.0.md
