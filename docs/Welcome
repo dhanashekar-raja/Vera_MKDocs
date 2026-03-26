@@ -1,0 +1,28 @@
+# Getting Started with the Vera Admin Guide
+What's Vera?
+
+New to Vera? Click the above link to check out a quick video that explains what Vera is about.
+
+Getting Started with the Vera Admin Portal
+
+This guide steps you through the administrative console.
+
+Configuring the Email Service Provider
+
+Before you start adding users to the system, set up the email service provider to use for communication with your users.
+
+Configuring Authentication
+
+Vera uses email as the default means of authenticating users. See this section for other options.
+
+Defining Privacy and Security Settings
+
+Make sure your deployment adheres to your organization's privacy and security standards, including which users are allowed to secure files.
+
+Setting Up a Support Request Email
+
+New users always have questions. Find out how to direct your users' questions to the right place.
+
+Digital Guardian Secure Collaboration (Vera) Release Notes 3.25.1
+
+Click the above link to view the latest release notes.
