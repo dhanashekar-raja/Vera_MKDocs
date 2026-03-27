@@ -2,6 +2,8 @@ site_name: Secure Collaboration (Vera) Release Notes
 
 theme:
   name: material
+  logo: icons/security_24dp_CCCCCC.png
+  favicon: icons/fortra-logomark-forest-green.png
   generator: false
   icon:
     admonition:
@@ -26,6 +28,7 @@ nav:
   - Release Notes:
     - Release Notes Directory: release_notes_dir.md   
     - Version 3.25.0: release-notes/2026/3.25.0.md
+  - Vera Policy Badge: vera_policy_badge.md
 
 extra_css:
   - stylesheets/extra.css
