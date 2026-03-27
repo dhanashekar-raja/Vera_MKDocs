@@ -23,4 +23,51 @@ body
 .md-copyright {
   color: slategray;
 }
-/* end */
+
+.md-typeset .admonition {
+  font-size: 11pt;  /* smaller than default */
+  /* or font-size: 14px; for fixed size */
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+/* Table styling */
+.md-typeset table:not([class]) {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95rem;
+  border: 1px solid #d7e2de;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 106, 86, 0.08);
+}
+
+.md-typeset table:not([class]) thead {
+  background-color: lightgray;
+}
+
+.md-typeset table:not([class]) th {
+  color: black;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.55rem 0.5rem;
+  border: 1px solid #005545;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.55rem 0.5rem;
+  border: 1px solid #d7e2de;
+  vertical-align: top;
+}
+
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: #f5faf8;
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: #e9f5f1;
+}
+
+/* End of Style */

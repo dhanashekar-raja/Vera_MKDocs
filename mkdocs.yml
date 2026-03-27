@@ -19,13 +19,13 @@ theme:
       quote: octicons/quote-16
   font: 
     text: 'Roboto'
-    code: 'Roboto Mono'
+    code: 'Courier New'
    
 nav:
   - Home: index.md
-  - Release Notes: release_notes_dir.md
-      - 2026:
-          - Version 3.25.0: release-notes/2026/3.25.0.md
+  - Release Notes:
+    - Release Notes Directory: release_notes_dir.md   
+    - Version 3.25.0: release-notes/2026/3.25.0.md
 
 extra_css:
   - stylesheets/extra.css
